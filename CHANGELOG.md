@@ -1,5 +1,30 @@
 # Change Log
 
+## 0.15.3 (June 27, 2017)
+
+* iOS: [#1362](https://github.com/airbnb/react-native-maps/pull/1362) Updates for React 0.43-0.45 and React 16.
+* JS: [#1323](https://github.com/airbnb/react-native-maps/pull/1323) Updates for React 0.43-0.45 and React 16.
+* Android/iOS/JS: [#1440](https://github.com/airbnb/react-native-maps/pull/1440) Updates for React 0.43-0.45 and React 16.
+* iOS: [#1115](https://github.com/airbnb/react-native-maps/pull/1115) Fix animateToCoordinate and animateToRegion
+* Android: [#1403](https://github.com/airbnb/react-native-maps/pull/1403) Fix an NPE
+
+## 0.15.2 (May 20, 2017)
+
+* iOS: [#1351](https://github.com/airbnb/react-native-maps/pull/1351) Fix file references
+
+## 0.15.1 (May 19, 2017)
+
+* iOS: [#1341](https://github.com/airbnb/react-native-maps/pull/1341) Fix compile error in rn version >= 0.40
+* iOS: [#1194](https://github.com/airbnb/react-native-maps/pull/1194) Add onPress support for Google Maps Polyline
+* iOS: [#1326](https://github.com/airbnb/react-native-maps/pull/1326) Add Marker rotation for Google Maps on iOS
+* Android: [#1311](https://github.com/airbnb/react-native-maps/pull/1311) Fix overlay issue
+* Common [#1313](https://github.com/airbnb/react-native-maps/pull/1313) Fix Android sourceDir for react-native-link
+
+## 0.15.0 (May 8, 2017)
+
+* iOS: [#1195](https://github.com/airbnb/react-native-maps/pull/1195) Rename project file to fix iOS build error
+* Android: Update Google Play Services to version `10.2.4`
+
 ## 0.14.0 (April 4, 2017)
 
 ## Enhancements
